@@ -98,17 +98,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/public\/js\/app.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/public\/js\/app.js",
-		"outputAbbreviatedPath": "\/_site\/public\/js\/min\/app-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
 	"\/_site\/public\/js\/ie-emulation-modes-warning.js": {
 		"fileType": 64,
 		"ignore": 0,
@@ -126,17 +115,6 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/public\/js\/ie10-viewport-bug-workaround.js",
 		"outputAbbreviatedPath": "\/_site\/public\/js\/min\/ie10-viewport-bug-workaround-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/_site\/public\/js\/min\/app-min.js": {
-		"fileType": 64,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/public\/js\/min\/app-min.js",
-		"outputAbbreviatedPath": "\/_site\/public\/js\/min\/min\/app-min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,

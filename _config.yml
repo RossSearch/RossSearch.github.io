@@ -1,0 +1,5 @@
+name: Ross Search Partners
+markdown: redcarpet
+
+exclude:    ['*.less']
+baseurl:    /

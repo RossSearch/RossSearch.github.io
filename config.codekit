@@ -87,6 +87,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/public\/img\/denver1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 282371,
+		"inputAbbreviatedPath": "\/_site\/public\/img\/denver1.jpg",
+		"outputAbbreviatedPath": "\/_site\/public\/img\/denver1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/public\/img\/denver2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 539290,
+		"inputAbbreviatedPath": "\/_site\/public\/img\/denver2.jpg",
+		"outputAbbreviatedPath": "\/_site\/public\/img\/denver2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/public\/img\/ross.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -97,6 +119,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
+		},
+	"\/_site\/public\/js\/app.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/public\/js\/app.js",
+		"outputAbbreviatedPath": "\/_site\/public\/js\/min\/app-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
 		},
 	"\/_site\/public\/js\/ie-emulation-modes-warning.js": {
 		"fileType": 64,
@@ -115,6 +148,17 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/public\/js\/ie10-viewport-bug-workaround.js",
 		"outputAbbreviatedPath": "\/_site\/public\/js\/min\/ie10-viewport-bug-workaround-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_site\/public\/js\/min\/app-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/public\/js\/min\/app-min.js",
+		"outputAbbreviatedPath": "\/_site\/public\/js\/min\/min\/app-min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -186,6 +230,28 @@
 		"initialSize": 46604,
 		"inputAbbreviatedPath": "\/public\/img\/corene.jpg",
 		"outputAbbreviatedPath": "\/public\/img\/corene.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/img\/denver1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 282371,
+		"inputAbbreviatedPath": "\/public\/img\/denver1.jpg",
+		"outputAbbreviatedPath": "\/public\/img\/denver1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/img\/denver2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 539290,
+		"inputAbbreviatedPath": "\/public\/img\/denver2.jpg",
+		"outputAbbreviatedPath": "\/public\/img\/denver2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

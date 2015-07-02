@@ -8,7 +8,7 @@ body {
 	position: relative;
 	height: 100%;
 	margin: 0px;
-	padding: 50px 0;
+	padding: 0px 0px 50px 0px;
 	font-family: 'Noto Sans', Helvetica, Arial, Sans-Serif;
 }
 a {
@@ -17,34 +17,46 @@ a {
 h1, h2 {
 	font-size: 30px;
 }
-h1 {
+h1, h3 {
 	color: @ross_blue;
 }
 h2 {
 	color: @ross_grey;
 }
 img {
+	box-shadow: 3px 3px 8px @ross_grey;
+}
+img, svg {
 	width: 100%;
 	height: 100%;
 	margin-top: 65px;
-	box-shadow: 3px 3px 8px @ross_grey;
 }
 .row {
 	padding: 50px 0;
 	border-bottom: solid 1px #eee;
-	p:first-of-type {
-		font-size: 16px;
-	}
+	font-size: 16px;
 }
 #logo {
+	background-image: url("../img/denver1.jpg");
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-attachment: fixed;
 	svg {
-		width: 100%;
-		height: 100%;
 		opacity: 0;
 	}
+}
 
+#navbar,
+.navbar {
+	.title {
+		margin: 20px 0px 0px 10px;
+		padding: 5px;
+		font-weight: bold;
+
+	}
 }
 #navbar {
+	margin-top: 60px;
 	li:first-child a {
 		padding: 0px;
 	}
@@ -57,10 +69,10 @@ img {
 	height: 100%;
 	top: 0px;
 	left: 0px;
-	#gradient > .horizontal(#ccc; #fff);
+	#gradient > .horizontal(#999; #fff);
 	z-index: -1;
 }
 
-.address {
+.contact {
 	margin: 30px 0px;
 }

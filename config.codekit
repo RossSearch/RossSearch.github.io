@@ -65,11 +65,20 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/public\/css\/home.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/public\/css\/home.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/public\/img\/andy.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 38446,
+		"initialSize": 35872,
 		"inputAbbreviatedPath": "\/_site\/public\/img\/andy.jpg",
 		"outputAbbreviatedPath": "\/_site\/public\/img\/andy.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -109,6 +118,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/public\/img\/hands.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22553,
+		"inputAbbreviatedPath": "\/_site\/public\/img\/hands.jpg",
+		"outputAbbreviatedPath": "\/_site\/public\/img\/hands.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/public\/img\/hands2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26465,
+		"inputAbbreviatedPath": "\/_site\/public\/img\/hands2.jpg",
+		"outputAbbreviatedPath": "\/_site\/public\/img\/hands2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/public\/img\/ross.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -116,6 +147,17 @@
 		"initialSize": 45638,
 		"inputAbbreviatedPath": "\/_site\/public\/img\/ross.jpg",
 		"outputAbbreviatedPath": "\/_site\/public\/img\/ross.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/public\/img\/ross_lg.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 197186,
+		"inputAbbreviatedPath": "\/_site\/public\/img\/ross_lg.jpg",
+		"outputAbbreviatedPath": "\/_site\/public\/img\/ross_lg.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -256,6 +298,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/img\/hands.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22553,
+		"inputAbbreviatedPath": "\/public\/img\/hands.jpg",
+		"outputAbbreviatedPath": "\/public\/img\/hands.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/img\/hands2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26465,
+		"inputAbbreviatedPath": "\/public\/img\/hands2.jpg",
+		"outputAbbreviatedPath": "\/public\/img\/hands2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/img\/ross.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -263,6 +327,17 @@
 		"initialSize": 45638,
 		"inputAbbreviatedPath": "\/public\/img\/ross.jpg",
 		"outputAbbreviatedPath": "\/public\/img\/ross.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/img\/ross_lg.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 204024,
+		"inputAbbreviatedPath": "\/public\/img\/ross_lg.jpg",
+		"outputAbbreviatedPath": "\/public\/img\/ross_lg.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

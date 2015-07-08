@@ -23,49 +23,41 @@ h1, h3 {
 h2 {
 	color: @ross_grey;
 }
-img {
+img.img-rounded {
+	margin-top: 65px;
 	box-shadow: 3px 3px 8px @ross_grey;
 }
-img, svg {
+img {
 	width: 100%;
 	height: 100%;
-	margin-top: 65px;
 }
 .row {
 	padding: 50px 0;
 	font-size: 16px;
 }
 #logo {
-	background-image: url("../img/denver1.jpg");
+	background-image: url("../img/denver.jpg");
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-attachment: fixed;
-	svg {
-		margin: 20% auto;
+	img {
+		margin: 10% auto;
 	}
 }
 
 .seperator {
 	height: 60px !important;
 	min-height: 60px !important;
-	background-image: url("../img/denver1.jpg");
+	background-image: url("../img/denver.jpg");
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-attachment: fixed;
 	box-shadow: 0px 10px 8px 0 @ross_grey inset;
 }
 
-#navbar,
-.navbar {
-	.title {
-		margin: 20px 0px 0px 10px;
-		padding: 5px;
-		font-weight: bold;
-
-	}
-}
 #navbar {
 	margin-top: 60px;
+	font-size: 16px;
 	li:first-child a {
 		padding: 0px;
 	}
@@ -85,3 +77,15 @@ img, svg {
 .contact {
 	margin: 30px 0px;
 }
+
+@media (min-width: 1900px) {
+	#logo {
+		background-image: url("../img/denver_bg.jpg");
+		background-repeat: repeat;
+	}
+	.seperator {
+		background-image: url("../img/denver_bg.jpg");
+		background-repeat: repeat;
+	}
+}
+

@@ -1,0 +1,1 @@
+Ross Search Partners is an Executive/IT Placement Firm in the Denver metro area with a combined 30 plus years of successful IT staffing experience. Our company was founded on this simple premise: live your dream and share your passion. Our family owned company IS our dream and, without a doubt, our passion as well.

@@ -20,20 +20,10 @@ page: home
 		<div class="col-sm-10 col-sm-offset-2">
 			<h1 itemprop="name">Ross Search Partners</h1>
 			<p itemprop="description">
-			Ross Search Partners is an Executive/IT Placement Firm in the Denver metro area with a combined 30 plus years of successful IT staffing experience. Our company was founded on this simple premise: live your dream and share your passion. Our family owned company IS our dream and, without a doubt, our passion as well.
+			{% include _content/description.md %}
 			</p>
-
-			<p>
-			One cannot be successful in any business without help from others, a fact of that we’re very mindful and appreciative of at Ross Search Partners. Throughout our long industry tenure, we’ve been very fortunate to have worked with so many great people, from candidates, clients to previous co-workers. All have played a significant role in our continuing education and success. That’s why building genuine relationships is the core of what drives our business; it is the foundation of our success and what ultimately distinguishes us from our competition.
-			</p>
-
-			<p>
-			Competitors may preach integrity, best of service and that they only represent the top candidates, but such declarations within our industry are not unique.	At Ross Search Partners, we understand that our performance will speak louder than any marketing claims and that trust needs to be earned.
-			</p>
-
-			<p>
-			Whether you’re a potential new client who would like our help finding top talent for your team or a candidate looking to take the next step in your career, we welcome the opportunity to partner with you.
-			</p>
+			{% capture copy %}{% include _content/home.md %}{% endcapture %}
+			{{ copy | markdownify }}
 		</div>
 		<div class="col-sm-10 col-sm-offset-2">
 			<img src="/public/img/ross_lg.jpg" alt="Photo of Andy & Corene" class="img-rounded" />
@@ -49,43 +39,8 @@ page: home
 	<div id="verticals" class="row">
 		<div class="col-sm-5 col-sm-offset-2">
 			<h2>Ross Search Partners specializes in the following IT recruiting verticals:</h2>
-
-			<h3>Data Management/Business Intelligence</h3>
-			<ul>
-				<li>Enterprise/Data/Data Warehouse Architect</li>
-				<li>Data Scientist</li>
-				<li>Data Modeler</li>
-				<li>ETL Developer</li>
-				<li>Database Developer</li>
-				<li>Data Analyst</li>
-				<li>Business Intelligence Architect</li>
-				<li>Business Intelligence Report Developer</li>
-				<li>Data QA</li>
-			</ul>
-
-			<h3>Mobile/Web/Software Development Life-Cycle</h3>
-			<ul>
-				<li>Software Architect</li>
-				<li>Software / Web Engineer</li>
-				<li>Mobile Engineer</li>
-				<li>Program / Project Manager</li>
-				<li>Business / Systems Analyst</li>
-				<li>Software QA</li>
-			</ul>
-
-			<h3>Infrastructure Services</h3>
-			<ul>
-				<li>DevOps Engineer</li>
-				<li>Cloud Engineer</li>
-				<li>Database Administrator</li>
-				<li>Network Security Engineer</li>
-			</ul>
-
-			<h3>Executive IT Placement</h3>
-			<ul>
-				<li>CTO/CIO</li>
-				<li>V-Level/Director Data/Software Engineering/Security/Infrastructure </li>
-			</ul>
+			{% capture copy %}{% include _content/verticals.md %}{% endcapture %}
+			{{ copy | markdownify }}
 		</div>
 		<div class="col-sm-5 hidden-xs">
 			<img src="/public/img/hands.jpg" alt="Photo of People Shaking Hands" class="img-rounded" />
@@ -143,24 +98,9 @@ page: home
 	<div id="aboutus" class="row">
 		<div class="col-sm-6 col-sm-offset-2" itemprop="member" itemscope itemtype="http://schema.org/Organization">
 			<h2 itemprop="name">About Us</h2>
-
 			<h3 itemprop="name">Corene Ross</h3>
-
-			<p>
-			<strong>Corene</strong> began her IT recruiting career in 1997 with Hall Kinion and Associates, an international IT staffing company. In her five years with Hall Kinion, she achieved President’s Club status and then was promoted into management. Under her leadership, Corene’s team was awarded “Start-Up Team of the Year” for achieving the most revenue generated in the first year of operation. From there she moved to Ajilon Finance and focused on placing senior level Accounting and Finance professionals. Corene was promoted to team lead and assisted in hiring, training and managing the team of executive recruiters.
-			</p>
-
-			<p>
-			After leaving Ajilon, Corene joined ChannelInsight, a Denver-based software company, as their corporate recruiter. Supporting executives as an internal recruiter was an invaluable opportunity to experience the process and challenges a company has while trying to fill numerous positions with limited resources.	Corene recruited and hired over 20 people each year crossing all skill-sets within the organization while helping to create a successful onboarding experience for each new hire. Having the opportunity to watch individuals who she helped recruit learn, grow and advance within the organization is one the most rewarding aspects of her recruiting career.
-			</p>
-
-			<p>
-			Most recently, Corene was with The Ash Group, a talent acquisition company focused on technology and business operations.	 She contributed greatly to the growth of the team by filling a high volume of both contract and permanent positions.
-			</p>
-
-			<p>
-			On a personal note, family and friends are her greatest joys.	 She has a competitive spirit which has helped her achieve career goals and keeps her focused when approaching new challenges. She enjoys exercising and has completed various running events and triathlons. Corene is a Colorado native and gained her BS in Kinesiology from the University of Colorado.
-			</p>
+			{% capture copy %}{% include _content/corene.md %}{% endcapture %}
+			{{ copy | markdownify }}
 		</div>
 		<div class="col-sm-4">
 			<img src="/public/img/corene.jpg" alt="Photo of Corene Ross" class="img-rounded" itemprop="image" />
@@ -176,25 +116,8 @@ page: home
 	<div id="andy" class="row">
 		<div class="col-sm-6 col-sm-offset-2" itemprop="member" itemscope itemtype="http://schema.org/Organization">
 			<h3 itemprop="name">Andy Ross</h3>
-				<p>
-				<strong>Andy</strong> began his career in 1997 as an Account Manager with Hall Kinion and Associates, an international IT staffing company.	 In his 5+ years at Hall Kinion, Andy was recognized as a top 5 sales producer for 3 consecutive years, ranking him in the top 1% and earning him President’s Club status.
-				</p>
-
-				<p>
-				Following a year with Analysts International, Andy joined Unison Systems Inc. as the Director of Consulting Services where he contributed significantly to the company’s client and revenue growth over a ten year span.
-				</p>
-
-				<p>
-				His longevity and success in the IT placement industry derives from the fact that he truly thrives on and thoroughly enjoys meeting new people and building genuine relationships.
-				</p>
-
-				<p>
-				Outside of his work life, Andy spends the majority of his time with his wife and two sons.	Coaching both his boys in lacrosse is a labor of love that’s extremely rewarding.	Proud of his celtic roots, Andy’s been an avid bagpiper since 1997.	 As a founding member of “The Mile Highlanders Pipes and Drums”, you can catch his band playing various events and festivals around the Denver metro area.
-				</p>
-
-				<p>
-				A native of Syracuse, New York, Andy received his BA in Communications from Marist College in Poughkeepsie, New York.
-				</p>
+			{% capture copy %}{% include _content/andy.md %}{% endcapture %}
+			{{ copy | markdownify }}
 		</div>
 		<div class="col-sm-4">
 			<img src="/public/img/andy.jpg" alt="Photo of Andy Ross" class="img-rounded" itemprop="image" />

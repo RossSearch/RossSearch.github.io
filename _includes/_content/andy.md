@@ -4,6 +4,6 @@ Following a year with Analysts International, Andy joined Unison Systems Inc. as
 
 His longevity and success in the IT placement industry derives from the fact that he truly thrives on and thoroughly enjoys meeting new people and building genuine relationships.
 
-Outside of his work life, Andy spends the majority of his time with his wife and two sons.	Coaching both his boys in lacrosse is a labor of love that’s extremely rewarding.	Proud of his celtic roots, Andy’s been an avid bagpiper since 1997.	 As a founding member of “The Mile Highlanders Pipes and Drums," you can catch his band playing various events and festivals around the Denver metro area.
+Outside of his work life, Andy spends the majority of his time with his wife and two sons.	Coaching both his boys in lacrosse is a labor of love that’s extremely rewarding.	Proud of his Celtic roots, Andy’s been an avid bagpiper since 1997.	 As a founding member of “The Mile Highlanders Pipes and Drums," you can catch his band playing various events and festivals around the Denver metro area.
 
 A native of Syracuse, New York, Andy received his BA in Communications from Marist College in Poughkeepsie, New York.

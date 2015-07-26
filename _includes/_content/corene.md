@@ -4,4 +4,4 @@ After leaving Ajilon, Corene joined Channelinsight, a Denver-based software comp
 
 Most recently, Corene was with The Ash Group, a talent acquisition company focused on technology and business operations.  She contributed greatly to the growth of the team by filling a high volume of both contract and permanent positions.
 
-On a personal note, family and friends are her greatest joys.  She enjoys exercising and has completed various running events and triathlons. Corene is a Colorado native and gained her BS in Kinesiology from the University of Colorado. She has a competitive spirit which has helped her achieve career goals and keeps her focused when approaching new challenges. 
+On a personal note, family and friends are her greatest joys.  She enjoys exercising and has completed various running events and triathlons. She has a competitive spirit which has helped her achieve career goals and keeps her focused when approaching new challenges.  Corene is a Colorado native and gained her BS in Kinesiology from the University of Colorado. 

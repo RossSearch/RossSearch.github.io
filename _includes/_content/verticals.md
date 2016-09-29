@@ -16,6 +16,8 @@
 *	Program / Project Manager
 *	Business / Systems Analyst
 *	Software QA
+* Product Management
+* Customer Success
 
 ###	Infrastructure Services
 *	DevOps Engineer
